@@ -39,9 +39,7 @@ Sou uma profissional de tecnologia em busca de oportunidades na Área de Dados, 
     *   *Descrição:* Pipeline de Engenharia de Dados de ponta a ponta construído para ingestão, tratamento e modelagem dimensional de dados nutricionais. Implementação da Arquitetura Medalhão em ambiente containerizado com Docker, englobando a ingestão de dados brutos (Bronze), higienização e tipagem com suporte a Regex para tratamento de inconsistências (Silver), e construção de um Star Schema com Tabela Fato e Dimensões conectadas por integridade referencial (Gold).
     *   *Tecnologias:* Python, SQL (PostgreSQL), Docker, Docker Compose, Pandas, SQLAlchemy, DBeaver.
 
-*   **[Nome do Projeto 2: Automação de Carga e Monitoramento de Qualidade](link-para-o-repositorio)**
-    *   *Descrição:* Sistema automatizado de extração e validação de dados de APIs externas, com tratamento de exceções, logs estruturados e testes automatizados de integridade.
-    *   *Tecnologias:* Python, Pandas, PyTest, Git.
+
 
 ---
 
